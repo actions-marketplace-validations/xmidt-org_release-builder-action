@@ -1,13 +1,13 @@
 module github.com/xmidt-org/release-builder-action
 
-go 1.23.0
+go 1.24
 
 require (
 	github.com/go-git/go-git/v5 v5.16.4
 	github.com/sethvargo/go-githubactions v1.3.2
 	github.com/spf13/afero v1.15.0
 	github.com/stretchr/testify v1.11.1
-	github.com/xmidt-org/gokeepachangelog v0.0.2
+	github.com/xmidt-org/gokeepachangelog v0.1.0
 )
 
 require (
